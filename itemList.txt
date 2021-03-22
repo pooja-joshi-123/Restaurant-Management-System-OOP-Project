@@ -1,0 +1,13 @@
+ItemID	ItemName	Category	Price
+1	Arancini Balls	Appetizers	285.00
+2	Avocado Toast	Appetizers	250.00
+3	Blueberry Cheesecake	Desserts	275.00
+4	Canneloni	Mains	385.00
+5	Dark Chocolate Sorbet	Desserts	225.00
+6	French Onion Soup	Appetizers	225.00
+7	Macchiato	Beverages	155.00
+8	Mediterranean Veg Pizza	Mains	405.00
+9	Pineapple Mint Mojito	Beverages	190.00
+10	Salted Caramel Shake	Beverages	185.00
+11	Spinach and Ricotta Ravioli	Mains	399.00
+12	Tiramisu	Desserts	325.00
