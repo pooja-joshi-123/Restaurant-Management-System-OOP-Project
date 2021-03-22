@@ -1,2 +1,2 @@
 # Restaurant Management System OOP Project
- OOP Project for Restaurant Management System using Java
+ The system provides customer, order and food-item management features, using the basic concepts of OOP, i.e, encapsulation, polymorphism and inheritance.
